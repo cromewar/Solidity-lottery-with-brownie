@@ -1,0 +1,5 @@
+{
+    "solidity.defaultCompiler": "remote",
+    "python.pythonPath": "/home/cromewar/Solidity-Projects/demos/lottery_smartcontract/lottery_env/bin/python",
+    "solidity.compileUsingRemoteVersion": "v0.6.6+commit.6c089d02"
+}
